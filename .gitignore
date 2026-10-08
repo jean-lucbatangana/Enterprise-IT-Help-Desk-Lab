@@ -1,0 +1,7 @@
+# Never commit credentials or VM artefacts
+*.vdi
+*.vbox
+*.ova
+*.iso
+credentials*
+*.local.ps1
